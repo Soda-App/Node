@@ -1,3 +1,5 @@
+[![Node.js CI](https://drone.rainnny.club/api/badges/Soda-App/Node/status.svg)](https://drone.rainnny.club/Soda-App/Node)
+
 # Node
 🖥 The node application that handles communication from/to the panel.
 
